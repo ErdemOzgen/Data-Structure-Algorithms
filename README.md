@@ -1,4 +1,8 @@
 # Data-Structure-Algorithms
+
+![](./imgs/Algo.png)
+
+
 Data structure and algortithms in 
 * [Python](./Python/readme.md)
 * Golang
@@ -8,11 +12,6 @@ Data structure and algortithms in
 # Python Section
 
 # Data Structures and Algorithms
-
-![Issues](https://img.shields.io/github/issues/shushrutsharma/Data-Structures-and-Algorithms-Python?color=red&style=for-the-badge)
-![PRs](https://img.shields.io/github/issues-pr-closed/shushrutsharma/Data-Structures-and-Algorithms-Python?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/shushrutsharma/Data-Structures-and-Algorithms-Python?style=for-the-badge)
-![Built With](https://img.shields.io/badge/Built%20With-Python-blueviolet?style=for-the-badge)
 
 All the essential resources and template code needed to understand and practice data structures and algorithms in python with few small projects to demonstrate their practical application.
 
